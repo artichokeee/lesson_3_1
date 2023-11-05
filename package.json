@@ -1,0 +1,22 @@
+{
+  "name": "lesson_3_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson_3_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artichokeee/lesson_3_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artichokeee/lesson_3_1/issues"
+  },
+  "homepage": "https://github.com/artichokeee/lesson_3_1#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
